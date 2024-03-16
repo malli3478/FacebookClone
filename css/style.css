@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+footer li {
+	@apply text-xs hover:underline mx-3 my-0.5
+}
+
+.fmid li {
+	@apply mx-3 my-0.5
+}
